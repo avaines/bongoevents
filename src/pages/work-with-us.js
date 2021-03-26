@@ -4,7 +4,7 @@ import SEO from '../components/SEO';
 import Layout from '../components/Layout';
 import Call from '../components/Call';
 
-const Team = props => {
+const WorkWithUs = props => {
   const team = props.data.team.edges;
   const { intro } = props.data;
   const introImageClasses = `intro-image ${intro.frontmatter.intro_image_absolute && 'intro-image-absolute'} ${intro.frontmatter.intro_image_hide_on_mobile && 'intro-image-hide-mobile'}`;
@@ -101,7 +101,7 @@ export const query = graphql`
         }
       }
     }
-    intro: markdownRemark(fileAbsolutePath: {regex: "/(team.md)/"}) {
+    intro: markdownRemark(fileAbsolutePath: {regex: "/(work-with-us.md)/"}) {
       html
       frontmatter {
         image
@@ -114,4 +114,4 @@ export const query = graphql`
   }
 `;
 
-export default Team;
+export default WorkWithUs;

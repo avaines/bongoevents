@@ -93,7 +93,7 @@ exports.createPages = ({ graphql, actions }) => {
           });
         });
         result.data.team.edges.forEach(({ node }) => {
-          const component = path.resolve('src/templates/team.js');
+          const component = path.resolve('src/templates/work-with-us.js');
           createPage({
             path: node.frontmatter.path ? node.frontmatter.path : node.fields.slug,
             component,

@@ -8,5 +8,10 @@
         "name": "Contact",
         "url": "/contact/",
         "weight": 2
+    },
+    {
+        "name": "Follow",
+        "url": "http://instagram.com/bongo_event",
+        "weight": 3
     }
 ]

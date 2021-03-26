@@ -1,17 +1,17 @@
 [
     {
-        "name": "Services",
+        "name": "Our Services",
         "url": "/services/",
         "weight": 2
     },
     {
-        "name": "Team",
-        "url": "/team/",
+        "name": "About",
+        "url": "/about/",
         "weight": 3
     },
     {
-        "name": "About",
-        "url": "/about/",
+        "name": "Work With Us",
+        "url": "/work-with-us/",
         "weight": 4
     },
     {

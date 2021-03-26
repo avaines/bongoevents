@@ -1,7 +1,7 @@
 ---
 path: '/contact'
 title: 'Contact'
-date: 2018-02-22T17:01:34+07:00
+date: 2021-03-26T00:00:00+00:00
 template: "contact"
 ---
 

@@ -2,8 +2,8 @@ const guid = process.env.NETLIFY_GOOGLE_ANALYTICS_ID;
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Serif Theme',
-    description: 'my theme'
+    title: 'BongoEvents & Marketing',
+    description: 'BongoEvents and Marketing'
   },
   plugins: [
     'gatsby-plugin-sass',
