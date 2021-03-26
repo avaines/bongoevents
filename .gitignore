@@ -58,6 +58,9 @@ typings/
 .cache/
 public
 
+# Firebase files
+.firebase/
+
 # Mac files
 .DS_Store
 

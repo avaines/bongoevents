@@ -73,10 +73,14 @@ const Home = props => {
                   <div className="feature">
                     {node.image && (
                       <div className="feature-image">
-                        <img src={node.image} />
+                        <a href={node.link}>
+                          <img src={node.image} />
+                        </a>
                       </div>
                     )}
-                    <h2 className="feature-title">{node.title}</h2>
+                    <a href={node.link}>
+                      <h2 className="feature-title">{node.title}</h2>
+                    </a>
                     <div className="feature-content">{node.description}</div>
                   </div>
                 </div>
@@ -129,6 +133,7 @@ export const query = graphql`
           title
           description
           image
+          link
         }
       }
     }

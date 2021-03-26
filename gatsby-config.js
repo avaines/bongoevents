@@ -10,6 +10,7 @@ module.exports = {
     'gatsby-transformer-json',
     'gatsby-transformer-remark',
     'gatsby-plugin-react-helmet',
+    'gatsby-plugin-fontawesome-css',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -43,7 +44,7 @@ module.exports = {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
         fonts: [
-          'Playfair+Display:400,700'
+          'Noto+Sans:400,700',
         ],
         display: 'swap'
       }

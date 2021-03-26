@@ -3,7 +3,7 @@
         "show_call_box": true
     },
     "logo": {
-        "mobile": "/images/logo/logo-text-only.svg",
+        "mobile": "/images/logo/logo-text-only.png",
         "desktop": "/images/logo/logo-text-only.png",
         "desktop_height": "36px",
         "alt": "BongoEvents & Marketing"
@@ -13,7 +13,7 @@
         "meta_og_title": "Bongo Events",
         "meta_og_type": "website",
         "meta_og_url": "https://bongoevents.com",
-        "meta_og_image": "https://www.zerostatic.io/theme/gatsby-serif/gatsby-serif-screenshot.png",
+        "meta_og_image": "https://www.bongoevents.com/images/illustrations/bongo-hero.png",
         "meta_og_description": "Building successful partnerships together.",
         "meta_twitter_card": "summary",
         "meta_twitter_site": "@bongoevents",

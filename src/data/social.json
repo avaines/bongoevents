@@ -2,16 +2,16 @@
     {
         "name": "Facebook",
         "link": "https://www.facebook.com/Bongo-Events-Marketing",
-        "image": "/images/social/facebook.svg"
+        "image": "/images/social/facebook.png"
     },
     {
         "name": "Instagram",
         "link": "http://instagram.com/bongo_events",
-        "image": "/images/social/instagram.svg"
+        "image": "/images/social/instagram.png"
     },
     {
         "name": "Mail",
         "link": "mailto:aly@bongoevents.com",
-        "image": "/images/social/email.svg"
+        "image": "/images/social/email.png"
     }
 ]

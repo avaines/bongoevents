@@ -2,16 +2,19 @@
   {
     "title": "Free Consultation",
     "description": "New clients recieve an obligation free consultation.",
-    "image": "/images/features/noun_branding_1885335.svg"
+    "image": "/images/features/icon.png",
+    "link" : "/contact/"
   },
   {
     "title": "Lets talk",
     "description": "Schedule a free consultation.",
-    "image": "/images/features/noun_The Process_1885341.svg"
+    "image": "/images/features/icon.png",
+    "link" : "/contact/"
   },
   {
     "title": "Work with us!",
     "description": "We’re always on the lookout for freelancers and performers to work with us for events and projects! Fill out the forms below if you would like to get involved!",
-    "image": "/images/features/noun_3d modeling_1885342.svg"
+    "image": "/images/features/icon.png",
+    "link" : "/work-with-us/"
   }
 ]
