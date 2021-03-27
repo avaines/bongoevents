@@ -9,5 +9,5 @@ intro_image_hide_on_mobile: true
 
 Specialised events & creative marketing.
 
-[Book a **FREE** Consultation Today!]("/contact/")
+[Book a **FREE** Consultation Today!](/contact/)
 

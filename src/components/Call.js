@@ -14,14 +14,14 @@ const Call = props => {
   return (
     <div className="call">
       <div className="call-box-top">
-        {data.contactJson.phone && (
+        {/* {data.contactJson.phone && (
           <div className="call-phone">
             <strong>Phone: </strong>
             {' '}
             { data.contactJson.phone }
             {' '}
           </div>
-        )}
+        )} */}
         {data.contactJson.email && (
           <div className="call-email">
             <strong>Email: </strong>

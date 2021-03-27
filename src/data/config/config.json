@@ -5,7 +5,7 @@
     "logo": {
         "mobile": "/images/logo/logo-text-only.png",
         "desktop": "/images/logo/logo-text-only.png",
-        "desktop_height": "36px",
+        "desktop_height": "64px",
         "alt": "BongoEvents & Marketing"
     },
     "homepage_meta_tags": {

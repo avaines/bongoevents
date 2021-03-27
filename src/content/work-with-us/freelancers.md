@@ -2,7 +2,7 @@
 title: "Freelancers"
 date: 2021-03-26T00:00:00+00:00
 link: "https://forms.gle/JLYxVCR5A1xoPPVeA"
-image: "/images/work-with-us/performers.jpg"
+image: "/images/work-with-us/freelancers.jpg"
 weight: 1
 ---
 
